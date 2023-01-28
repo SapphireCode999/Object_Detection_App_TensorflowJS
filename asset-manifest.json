@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Object_Detection_App_TensorflowJS/static/css/main.964fdded.css",
+    "main.js": "/Object_Detection_App_TensorflowJS/static/js/main.13774748.js",
+    "index.html": "/Object_Detection_App_TensorflowJS/index.html",
+    "main.964fdded.css.map": "/Object_Detection_App_TensorflowJS/static/css/main.964fdded.css.map",
+    "main.13774748.js.map": "/Object_Detection_App_TensorflowJS/static/js/main.13774748.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.964fdded.css",
+    "static/js/main.13774748.js"
+  ]
+}
