@@ -1,3 +1,17 @@
+## Object Detection web app built with Reactjs and Tensorflowjs.
+
+### In this project, I made use of the pretrained tensorflowjs object detection model which was trained using the coco dataset and can identify multiple objects from 80 classes of objects present in an image. 
+
+![image](https://user-images.githubusercontent.com/113556569/218500837-a0489693-7747-44c8-b71b-d4d877d6954e.png)
+
+![image](https://user-images.githubusercontent.com/113556569/218506441-cf124133-c955-4922-8ba2-ec4afb19510d.png)
+
+![image](https://user-images.githubusercontent.com/113556569/218507592-d82232eb-da04-4d3b-9e12-20cb5c16985d.png)
+
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
